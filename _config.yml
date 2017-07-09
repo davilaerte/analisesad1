@@ -2,7 +2,7 @@
 title: Análises de AD1
 email: davi.nascimento@ccc.ufcg.edu.br
 description: > # this means to ignore newlines until "baseurl:"
-  Um pequeno portifólio com meus singelos relatorios de AD1.
+  Um pequeno portifólio com meus singelos relatórios de AD1.
 baseurl: "/analisesad1" # the subpath of your site, e.g. /blog/
 url: "https://davilaerte.github.io/analisesad1/" # the base hostname & protocol for your site
 twitter_username: davilaerte_	
